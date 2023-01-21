@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto Habits e uma aplicação para 
 ajudar e organizar hábitos.
 
+- [Visite o projeto online](https://firmino93.github.io/nlw-setup)
+
 - [Acesse o projeto finalizado, online](figma.com/file/E2t98TpqBOOWppuuM0RzCi/Habits-(e)-(Community)?node-id=75%3A128&t=XjjnupB63l9J1icf-0)
 
 ## 🔖 Layout
